@@ -1,4 +1,4 @@
-# 👋 Olá, Bem vino ao meu Portfólio
+# 👋 Olá, Bem vindo ao meu Portfólio
 
 🎓 Estudante de Big Data para Negócios - Fatec Ipiranga  
 📊 Interessado em dados, BI e Inteligência Artificial
